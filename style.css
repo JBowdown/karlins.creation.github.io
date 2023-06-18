@@ -48,6 +48,10 @@ body {
             margin-bottom: 30px;
         }
         
+        footer {
+            text-align: center;
+        }
+
         .art {
             display: flex;
             flex-wrap: wrap;
@@ -63,6 +67,12 @@ body {
             display: grid;
 
         }
+
+        
+.gallery-item .label {
+            margin-top: 10px;
+        }
+
 
          .logo img {
             width: 80px;
